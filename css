@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=BioRhyme+Expanded');
+.title1{
+    font-family: 'Chalkboard',sans-serif;
+}
+
+.nv-button{
+     color: rgb(10,10,10);
+}
+.c1 {
+    font-size: 5rem;
+}
+.c2 {
+    color: white;
+}
+
+.vertical {
+        writing-mode: vertical-rl;
+}
+
+.d2{
+  position      : relative;  
+  background:linear-gradient(to top, rgba(50, 100, 230, 0.8) 0%,rgba(0, 198, 250, 0.3) 100%);
+}
+
+.back1 {
+  position      : absolute;             
+  display       : inline-block;         
+  white-space   : nowrap;              
+  font-size     : 150pt;                 
+  font-weight   : bold;                
+  color         : rgba(220, 255, 255, 0.3); 
+  top           : 0%;
+  left          : 0%;
+}
+
+.fixed-background {
+  min-height: 100vh;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+.background-1 {
+  background-image: url(https://storage.googleapis.com/studio-design-asset-files/projects/4BqNGwbJar/s-2400x1845_v-frms_webp_f72700a3-ba42-4532-af04-bea225bede99_regular.jpg);
+}
